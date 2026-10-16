@@ -1,38 +1,35 @@
-# Hi there, I'm koNoJOJOga 👋
+<div align="center">
 
-Welcome to my GitHub profile! 
+# Hi, I'm koNoJOJOga 👋
 
-## About Me
+Building useful things. Learning by doing.
 
-- 🔭 I'm passionate about coding and building interesting projects
-- 🌱 I'm continuously learning and expanding my skills
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about anything tech-related!
+[![GitHub](https://img.shields.io/badge/GitHub-koNoJOJOga-181717?style=flat-square&logo=github)](https://github.com/koNoJOJOga)
+
+</div>
+
+## 👨‍💻 About Me
+
+- 🔭 I enjoy turning ideas into working projects.
+- 🌱 I learn through building, experimenting, and improving.
+- 🤝 Open to collaborating on interesting open source projects.
+
+## 🛠 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koNoJOJOga&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=koNoJOJOga&show_icons=true&include_all_commits=true&number_format=long&hide_rank=true&theme=tokyonight&hide_border=true)](https://github.com/koNoJOJOga)
 
-## 🛠️ Technologies & Tools
+## 📈 Recent Contributions
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+[![Recent contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=koNoJOJOga&theme=tokyo-night&hide_border=true&area=true)](https://github.com/koNoJOJOga)
 
-## 📫 How to Reach Me
+## 🤝 Let's Connect
 
-- GitHub: [@koNoJOJOga](https://github.com/koNoJOJOga)
-
-## 🎯 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=koNoJOJOga&theme=github)
-
----
-
-⭐️ From [koNoJOJOga](https://github.com/koNoJOJOga)
+Have an idea or want to collaborate?
+Find me on [GitHub](https://github.com/koNoJOJOga).
